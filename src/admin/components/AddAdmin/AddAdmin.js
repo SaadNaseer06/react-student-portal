@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { setDoc, doc } from 'firebase/firestore';
-import { db } from '../../../firebaseConfig'; // Import with correct path
+import { db } from '../../../firebaseConfig'; 
 import styles from './AddAdmin.module.css';
 import defaultAdmins from './admins';
 

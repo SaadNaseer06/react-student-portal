@@ -101,7 +101,7 @@ const LoginForm = () => {
         <img src={studentIcon} alt="icon-of-students"></img>
         <div>
           <img src={groupIcon} alt="icon-of-students"></img>
-          <h1>STUDENT PORTAL</h1>
+          <h1>SCHOLARS HAVEN</h1>
           <img src={groupIcon} alt="icon-of-students"></img>
         </div>
         <img src={teacherIcon} alt="icon-of-students"></img>
@@ -147,9 +147,6 @@ const LoginForm = () => {
           </button>
         </form>
       </div>
-      <footer className={classes.loginFooter}>
-        <p>Copyrights @AVCI Technologies 2024. All rights reserved.</p>
-      </footer>
     </div>
   );
 };
