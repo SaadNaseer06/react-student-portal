@@ -2,13 +2,12 @@ import { initializeApp } from 'firebase/app';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyDbzhYfkFzNP4wabRJ9P3WxUnS-DK1xKqA',
-  authDomain: 'student-portal-react-app.firebaseapp.com',
-  projectId: 'student-portal-react-app',
-  storageBucket: 'student-portal-react-app.firebasestorage.app',
-  messagingSenderId: '746738989527',
-  appId: '1:746738989527:web:f8eb1bb304ebaf472a3392',
-  measurementId: 'G-2SZ39HPT9S',
+  apiKey: 'YOUR_API_KEY',
+  authDomain: 'YOUR_DOMAIN_NAME',
+  projectId: 'YOUR_PROJECT_ID',
+  storageBucket: '_YOUR_STORAGE_BUCKET',
+  messagingSenderId: 'YOUR_MESSENGER_ID',
+  appId: 'YOUR_APP_ID',
 };
 
 // Initialize Firebase
