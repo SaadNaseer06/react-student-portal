@@ -47,7 +47,7 @@ export { db, app };
 
 
 > ## To Get Started 
-- clone the repo `git clone https://github.com/awais-124/react-student-portal.git`
+- clone the repo `git clone https://github.com/SaadNaseer06/react-student-portal.git`
 - run `npm install`
 - run `npm start` to start development server. Headover to `localhost:3000` to see it live.
 - run `npm run build` to create build directory.
